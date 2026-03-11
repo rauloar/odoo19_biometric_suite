@@ -1,19 +1,19 @@
-# Odoo 19 Biometric Suite
+Odoo 19 Biometric Suite
 
-Main installer repository for the biometric module ecosystem.
+Main repository for the biometric module ecosystem.
 
-## Public modules
+Public modules
 
-- `odoo19_biometric_core`
-- `odoo19_biometric_fake`
+odoo19_biometric_core
+odoo19_biometric_fake
 
-## Commercial drivers
+Commercial drivers
 
-- `odoo19_biometric_zkteco`
-- `odoo19_biometric_hikvision`
-- `odoo19_biometric_import`
+odoo19_biometric_zkteco
+odoo19_biometric_hikvision
+odoo19_biometric_import
 
-## Installation
+Installation
 
 Clone public repositories into your custom addons path.
 
@@ -21,6 +21,6 @@ Private drivers require a valid license and repository access.
 
 See:
 
-- `docs/install.md`
-- `docs/drivers.md`
-- `docs/licensing.md`
+docs/install.md
+docs/drivers.md
+docs/licensing.md

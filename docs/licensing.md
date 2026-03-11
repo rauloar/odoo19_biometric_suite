@@ -1,25 +1,25 @@
-# Licensing
+Licensing
 
-## Repository model
+Repository model
 
-This suite is distributed as multiple repositories with mixed visibility:
+This suite is distributed as multiple repositories with mixed visibility.
 
-### Public
+Public
 
-- `odoo19_biometric_core`
-- `odoo19_biometric_fake`
+odoo19_biometric_core
+odoo19_biometric_fake
 
-### Commercial / Private
+Commercial / Private
 
-- `odoo19_biometric_zkteco`
-- `odoo19_biometric_hikvision`
-- `odoo19_biometric_import`
+odoo19_biometric_zkteco
+odoo19_biometric_hikvision
+odoo19_biometric_import
 
-## Access policy
+Access policy
 
 Private driver repositories require:
 
-1. A valid commercial license.
-2. Explicit GitHub access for the licensed account.
+A valid commercial license
+Explicit GitHub access for the licensed account
 
 If you need access to private repositories, contact the maintainer and provide your GitHub username.
